@@ -1,0 +1,15 @@
+D:\My Projects\1KPZ\lab-1\lab-1\bin\Debug\net8.0\lab-1.exe
+D:\My Projects\1KPZ\lab-1\lab-1\bin\Debug\net8.0\lab-1.deps.json
+D:\My Projects\1KPZ\lab-1\lab-1\bin\Debug\net8.0\lab-1.runtimeconfig.json
+D:\My Projects\1KPZ\lab-1\lab-1\bin\Debug\net8.0\lab-1.dll
+D:\My Projects\1KPZ\lab-1\lab-1\bin\Debug\net8.0\lab-1.pdb
+D:\My Projects\1KPZ\lab-1\lab-1\obj\Debug\net8.0\lab-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\1KPZ\lab-1\lab-1\obj\Debug\net8.0\lab-1.AssemblyInfoInputs.cache
+D:\My Projects\1KPZ\lab-1\lab-1\obj\Debug\net8.0\lab-1.AssemblyInfo.cs
+D:\My Projects\1KPZ\lab-1\lab-1\obj\Debug\net8.0\lab-1.csproj.CoreCompileInputs.cache
+D:\My Projects\1KPZ\lab-1\lab-1\obj\Debug\net8.0\lab-1.sourcelink.json
+D:\My Projects\1KPZ\lab-1\lab-1\obj\Debug\net8.0\lab-1.dll
+D:\My Projects\1KPZ\lab-1\lab-1\obj\Debug\net8.0\refint\lab-1.dll
+D:\My Projects\1KPZ\lab-1\lab-1\obj\Debug\net8.0\lab-1.pdb
+D:\My Projects\1KPZ\lab-1\lab-1\obj\Debug\net8.0\lab-1.genruntimeconfig.cache
+D:\My Projects\1KPZ\lab-1\lab-1\obj\Debug\net8.0\ref\lab-1.dll

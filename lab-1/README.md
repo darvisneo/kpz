@@ -10,13 +10,13 @@ This lab project demonstrates several key software engineering principles. Each 
 **Definition:** A class should have only one reason to change.
 
 * ✅ `Money` handles money representation and operations.
-  📄 [`Money.cs`](./lab-1/Money.cs#L6-L37), lines 6–37
+  📄 [`Money.cs`](./lab-1/Money.cs#L9-L42), lines 9–42
 * ✅ `Product` encapsulates product data and operations related to pricing.
-  📄 [`Product.cs`](./lab-1/Product.cs#L7-L32), lines 7–32
+  📄 [`Product.cs`](./lab-1/Product.cs#L19-L32), lines 10–32
 * ✅ `Warehouse` is responsible only for inventory storage and shipment.
-  📄 [`Warehouse.cs`](./lab-1/Warehouse.cs#L7-L37), lines 7–37
+  📄 [`Warehouse.cs`](./lab-1/Warehouse.cs#L10-L41), lines 10–41
 * ✅ `Reporting` only handles reporting logic.
-  📄 [`Reporting.cs`](./lab-1/Reporting.cs#L7-L17), lines 7–17
+  📄 [`Reporting.cs`](./lab-1/Reporting.cs#L10-L17), lines 10–17
 
 ---
 
@@ -25,7 +25,7 @@ This lab project demonstrates several key software engineering principles. Each 
 **Definition:** Classes should be open for extension but closed for modification.
 
 * ✅ You can extend functionality by adding new product types or pricing logic without changing existing classes like `Product` or `Money`.
-  📄 [`Product.cs`](./lab-1/Product.cs#L7-L32), lines 7–32
+  📄 [`Product.cs`](./lab-1/Product.cs#L10-L32), lines 10–32
 
 ---
 
@@ -58,9 +58,9 @@ This lab project demonstrates several key software engineering principles. Each 
 **Definition:** Avoid duplicating code.
 
 * ✅ Reused logic for manipulating money (`SetAmount`, `Decrease`) is centralized in `Money` class.
-  📄 [`Money.cs`](./lab-1/Money.cs#L11-L37), lines 11–37
+  📄 [`Money.cs`](./lab-1/Money.cs#L9-L42), lines 9–42
 * ✅ `Warehouse.ShowInventory` and `Reporting.ShowInventoryReport` reuse the same inventory display logic.
-  📄 [`Warehouse.cs`](./lab-1/Warehouse.cs#L20), line 20
+  📄 [`Warehouse.cs`](./lab-1/Warehouse.cs#L19), line 19
   📄 [`Reporting.cs`](./lab-1/Reporting.cs#L14), line 14
 
 ---
@@ -71,7 +71,7 @@ This lab project demonstrates several key software engineering principles. Each 
 
 * ✅ All classes and methods are short, intuitive, and clearly named.
   📄 All classes
-  📄 `Program.cs`(./lab-1/Program.cs#L9-L46), lines 9–46
+  📄 [`Program.cs`](./lab-1/Program.cs#L9-L46), lines 9–46
 
 ---
 
@@ -89,7 +89,7 @@ This lab project demonstrates several key software engineering principles. Each 
 **Definition:** Prefer composition over class inheritance.
 
 * ✅ `WarehouseItem` contains a `Product` object rather than extending it.
-  📄 [`WarehouseItem.cs`](./lab-1/WarehouseItem.cs#L9), line 9
+  📄 [`WarehouseItem.cs`](./lab-1/WarehouseItem.cs#L10), line 10
 
 ---
 
@@ -106,7 +106,7 @@ This lab project demonstrates several key software engineering principles. Each 
 **Definition:** The system should report errors early.
 
 * ✅ In `Warehouse.ShipProduct`, the method immediately prints an error if shipment is not possible.
-  📄 [`Warehouse.cs`](./lab-1/Warehouse.cs#L25-L36), lines 25–36
+  📄 [`Warehouse.cs`](./lab-1/Warehouse.cs#L28-L40), lines 28–40
 * ✅ In `Money.SetAmount`, logic corrects invalid `kopika` input (e.g., >100) early.
   📄 [`Money.cs`](./lab-1/Money.cs#L13-L17), lines 13–17
 

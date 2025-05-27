@@ -10,7 +10,7 @@ This lab project demonstrates several key software engineering principles. Each 
 **Definition:** A class should have only one reason to change.
 
 * ✅ `Money` handles money representation and operations.
-  📄 [`Money.cs`](./Money.cs#L6-37), lines 6–37
+  📄 [`Money.cs`](./lab-1/Money.cs#L6-37), lines 6–37
 * ✅ `Product` encapsulates product data and operations related to pricing.
   📄 [`Product.cs`](./Product.cs#L7-32), lines 7–32
 * ✅ `Warehouse` is responsible only for inventory storage and shipment.

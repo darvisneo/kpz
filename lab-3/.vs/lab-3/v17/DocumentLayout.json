@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|solutionrelative:zav5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|d:\\my projects\\1kpz\\lab-3\\zav5\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|solutionrelative:zav5\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B89B36F3-47DB-44B7-80AF-41D81D375BDE}|ConsoleApp1\\ConsoleApp1.csproj|d:\\my projects\\1kpz\\lab-3\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89B36F3-47DB-44B7-80AF-41D81D375BDE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|d:\\my projects\\1kpz\\lab-3\\zav5\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|solutionrelative:zav5\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|d:\\my projects\\1kpz\\lab-3\\zav5\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|solutionrelative:zav5\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|d:\\my projects\\1kpz\\lab-3\\zav5\\statsvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D3DE5EF7-2183-45AB-B4C3-D79B0518EC80}|zav6\\zav6.csproj|d:\\my projects\\1kpz\\lab-3\\zav6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3DE5EF7-2183-45AB-B4C3-D79B0518EC80}|zav6\\zav6.csproj|solutionrelative:zav6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B89B36F3-47DB-44B7-80AF-41D81D375BDE}|ConsoleApp1\\ConsoleApp1.csproj|d:\\my projects\\1kpz\\lab-3\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B89B36F3-47DB-44B7-80AF-41D81D375BDE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{099DC3E8-D838-458E-AC0C-45661ACAB695}|zav1\\zav1.csproj|d:\\my projects\\1kpz\\lab-3\\zav1\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,32 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StatsVisitor.cs",
-              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\StatsVisitor.cs",
-              "RelativeDocumentMoniker": "zav5\\StatsVisitor.cs",
-              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\StatsVisitor.cs",
-              "RelativeToolTip": "zav5\\StatsVisitor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T01:08:36.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DepthFirstIterator.cs",
-              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\DepthFirstIterator.cs",
-              "RelativeDocumentMoniker": "zav5\\DepthFirstIterator.cs",
-              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\DepthFirstIterator.cs",
-              "RelativeToolTip": "zav5\\DepthFirstIterator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T00:43:13.61Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "zav6.csproj",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav6\\zav6.csproj",
               "RelativeDocumentMoniker": "zav6\\zav6.csproj",
@@ -167,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav6\\Program.cs",
               "RelativeDocumentMoniker": "zav6\\Program.cs",
@@ -192,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "zav5.csproj",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\zav5.csproj",
               "RelativeDocumentMoniker": "zav5\\zav5.csproj",
@@ -210,14 +185,14 @@
               "RelativeDocumentMoniker": "zav5\\Program.cs",
               "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\Program.cs",
               "RelativeToolTip": "zav5\\Program.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGIAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T23:06:21.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "LightElementNode.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\LightElementNode.cs",
               "RelativeDocumentMoniker": "zav5\\LightElementNode.cs",
@@ -225,12 +200,11 @@
               "RelativeToolTip": "zav5\\LightElementNode.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T23:11:45.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T23:11:45.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AddChildCommand.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\AddChildCommand.cs",
               "RelativeDocumentMoniker": "zav5\\AddChildCommand.cs",
@@ -242,7 +216,44 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwJUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:25:31.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepthFirstIterator.cs",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\DepthFirstIterator.cs",
+              "RelativeDocumentMoniker": "zav5\\DepthFirstIterator.cs",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\DepthFirstIterator.cs",
+              "RelativeToolTip": "zav5\\DepthFirstIterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T00:43:13.61Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "StatsVisitor.cs",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\StatsVisitor.cs",
+              "RelativeDocumentMoniker": "zav5\\StatsVisitor.cs",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\StatsVisitor.cs",
+              "RelativeToolTip": "zav5\\StatsVisitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T01:08:36.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav1\\Program.cs",
               "RelativeDocumentMoniker": "zav1\\Program.cs",
@@ -250,12 +261,11 @@
               "RelativeToolTip": "zav1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T21:13:56.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T21:13:56.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AddClassCommand.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\AddClassCommand.cs",
               "RelativeDocumentMoniker": "zav5\\AddClassCommand.cs",
@@ -267,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "BreadthFirstIterator.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\BreadthFirstIterator.cs",
               "RelativeDocumentMoniker": "zav5\\BreadthFirstIterator.cs",
@@ -276,18 +286,6 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAIwBIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T00:43:44.598Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAowI0AAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T23:25:31.557Z"
             },
             {
               "$type": "Document",

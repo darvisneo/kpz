@@ -13,6 +13,16 @@ namespace zav5
         public TagType TagType { get; }
         public List<string> CssClasses { get; }
         public List<LightNode> Children { get; }
+        private IVisibilityState _visibilityState;
+        public IVisibilityState VisibilityState
+        {
+            get => _visibilityState;
+            set
+            {
+                _visibilityState = value;
+                Console.WriteLine($"Visibility state changed for {TagName}");
+            }
+        }
 
         public LightElementNode(string tagName, DisplayType display, TagType tagType)
         {
@@ -21,6 +31,7 @@ namespace zav5
             TagType = tagType;
             CssClasses = new List<string>();
             Children = new List<LightNode>();
+            _visibilityState = new VisibleState();
         }
 
         public void AddClass(string className) => CssClasses.Add(className);
@@ -62,6 +73,7 @@ namespace zav5
             {
                 StringBuilder sb = new StringBuilder();
                 sb.Append('<').Append(TagName);
+                sb.Append(" style=\"").Append(_visibilityState.ApplyStyle()).Append("\"");
                 if (CssClasses.Count > 0)
                 {
                     sb.Append(" class=\"").Append(string.Join(" ", CssClasses)).Append('"');

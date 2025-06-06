@@ -26,6 +26,25 @@ namespace zav5
         void Execute();
         void Undo();
     }
+    public interface IVisibilityState
+    {
+        string ApplyStyle();
+    }
+    public class VisibleState : IVisibilityState
+    {
+        public string ApplyStyle()
+        {
+            return "display: block;";
+        }
+    }
+
+    public class HiddenState : IVisibilityState
+    {
+        public string ApplyStyle()
+        {
+            return "display: none;";
+        }
+    }
     public abstract class LightNode
     {
         public abstract string OuterHTML { get; }

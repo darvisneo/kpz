@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zav5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eab4475d62c13d60438f6c7c425a7d1236198bd6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0289bc127f79b4c3d634268ee84e9825a8206c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("zav5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zav5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

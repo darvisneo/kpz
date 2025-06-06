@@ -1,0 +1,18 @@
+[LOG] Writed in File: Everything OK
+[WARN] Writed in File: Warn
+[ERROR] Writed in File: Something wrong
+[LOG] Writed in File: Everything OK
+[WARN] Writed in File: Warn
+[ERROR] Writed in File: Something wrong
+[LOG] Writed in File: Everything OK
+[WARN] Writed in File: Warn
+[ERROR] Writed in File: Something wrong
+[LOG] Writed in File: Everything OK
+[WARN] Writed in File: Warn
+[ERROR] Writed in File: Something wrong
+[LOG] Writed in File: Everything OK
+[WARN] Writed in File: Warn
+[ERROR] Writed in File: Something wrong
+[LOG] Writed in File: Everything OK
+[WARN] Writed in File: Warn
+[ERROR] Writed in File: Something wrong

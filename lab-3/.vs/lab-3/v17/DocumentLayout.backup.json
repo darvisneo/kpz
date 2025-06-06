@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Projects\\1KPZ\\lab-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DE5EF7-2183-45AB-B4C3-D79B0518EC80}|zav6\\zav6.csproj|d:\\my projects\\1kpz\\lab-3\\zav6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DE5EF7-2183-45AB-B4C3-D79B0518EC80}|zav6\\zav6.csproj|solutionrelative:zav6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89B36F3-47DB-44B7-80AF-41D81D375BDE}|ConsoleApp1\\ConsoleApp1.csproj|d:\\my projects\\1kpz\\lab-3\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89B36F3-47DB-44B7-80AF-41D81D375BDE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|d:\\my projects\\1kpz\\lab-3\\zav5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|solutionrelative:zav5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|d:\\my projects\\1kpz\\lab-3\\zav5\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|solutionrelative:zav5\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|d:\\my projects\\1kpz\\lab-3\\zav5\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|solutionrelative:zav5\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|d:\\my projects\\1kpz\\lab-3\\zav5\\zav5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|solutionrelative:zav5\\zav5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DE5EF7-2183-45AB-B4C3-D79B0518EC80}|zav6\\zav6.csproj|d:\\my projects\\1kpz\\lab-3\\zav6\\zav6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D3DE5EF7-2183-45AB-B4C3-D79B0518EC80}|zav6\\zav6.csproj|solutionrelative:zav6\\zav6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099DC3E8-D838-458E-AC0C-45661ACAB695}|zav1\\zav1.csproj|d:\\my projects\\1kpz\\lab-3\\zav1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099DC3E8-D838-458E-AC0C-45661ACAB695}|zav1\\zav1.csproj|solutionrelative:zav1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099DC3E8-D838-458E-AC0C-45661ACAB695}|zav1\\zav1.csproj|d:\\my projects\\1kpz\\lab-3\\zav1\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099DC3E8-D838-458E-AC0C-45661ACAB695}|zav1\\zav1.csproj|solutionrelative:zav1\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986CB8BB-E087-4C86-A7BE-61F9E23BD2B6}|zav2\\zav2.csproj|d:\\my projects\\1kpz\\lab-3\\zav2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986CB8BB-E087-4C86-A7BE-61F9E23BD2B6}|zav2\\zav2.csproj|solutionrelative:zav2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986CB8BB-E087-4C86-A7BE-61F9E23BD2B6}|zav2\\zav2.csproj|d:\\my projects\\1kpz\\lab-3\\zav2\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986CB8BB-E087-4C86-A7BE-61F9E23BD2B6}|zav2\\zav2.csproj|solutionrelative:zav2\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A5298B-C718-490A-AB02-65BCD3066079}|zav4\\zav4.csproj|d:\\my projects\\1kpz\\lab-3\\zav4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A5298B-C718-490A-AB02-65BCD3066079}|zav4\\zav4.csproj|solutionrelative:zav4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C565D4-14B6-4141-B181-E676E51F8643}|zav3\\zav3.csproj|d:\\my projects\\1kpz\\lab-3\\zav3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C565D4-14B6-4141-B181-E676E51F8643}|zav3\\zav3.csproj|solutionrelative:zav3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986CB8BB-E087-4C86-A7BE-61F9E23BD2B6}|zav2\\zav2.csproj|d:\\my projects\\1kpz\\lab-3\\zav2\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986CB8BB-E087-4C86-A7BE-61F9E23BD2B6}|zav2\\zav2.csproj|solutionrelative:zav2\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986CB8BB-E087-4C86-A7BE-61F9E23BD2B6}|zav2\\zav2.csproj|d:\\my projects\\1kpz\\lab-3\\zav2\\palladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986CB8BB-E087-4C86-A7BE-61F9E23BD2B6}|zav2\\zav2.csproj|solutionrelative:zav2\\palladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A5298B-C718-490A-AB02-65BCD3066079}|zav4\\zav4.csproj|d:\\my projects\\1kpz\\lab-3\\zav4\\smarttextreaderlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A5298B-C718-490A-AB02-65BCD3066079}|zav4\\zav4.csproj|solutionrelative:zav4\\smarttextreaderlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A5298B-C718-490A-AB02-65BCD3066079}|zav4\\zav4.csproj|d:\\my projects\\1kpz\\lab-3\\zav4\\smarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A5298B-C718-490A-AB02-65BCD3066079}|zav4\\zav4.csproj|solutionrelative:zav4\\smarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A5298B-C718-490A-AB02-65BCD3066079}|zav4\\zav4.csproj|d:\\my projects\\1kpz\\lab-3\\zav4\\smarttextchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A5298B-C718-490A-AB02-65BCD3066079}|zav4\\zav4.csproj|solutionrelative:zav4\\smarttextchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986CB8BB-E087-4C86-A7BE-61F9E23BD2B6}|zav2\\zav2.csproj|d:\\my projects\\1kpz\\lab-3\\zav2\\zav2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{986CB8BB-E087-4C86-A7BE-61F9E23BD2B6}|zav2\\zav2.csproj|solutionrelative:zav2\\zav2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099DC3E8-D838-458E-AC0C-45661ACAB695}|zav1\\zav1.csproj|d:\\my projects\\1kpz\\lab-3\\zav1\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099DC3E8-D838-458E-AC0C-45661ACAB695}|zav1\\zav1.csproj|solutionrelative:zav1\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099DC3E8-D838-458E-AC0C-45661ACAB695}|zav1\\zav1.csproj|d:\\my projects\\1kpz\\lab-3\\zav1\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099DC3E8-D838-458E-AC0C-45661ACAB695}|zav1\\zav1.csproj|solutionrelative:zav1\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAowI0AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:25:31.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "zav6",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav6\\zav6.csproj",
+              "RelativeDocumentMoniker": "zav6\\zav6.csproj",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav6\\zav6.csproj",
+              "RelativeToolTip": "zav6\\zav6.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T23:18:57.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav6\\Program.cs",
+              "RelativeDocumentMoniker": "zav6\\Program.cs",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav6\\Program.cs",
+              "RelativeToolTip": "zav6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:17:44.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LightTextNode.cs",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\LightTextNode.cs",
+              "RelativeDocumentMoniker": "zav5\\LightTextNode.cs",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\LightTextNode.cs",
+              "RelativeToolTip": "zav5\\LightTextNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:12:26.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "zav5",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\zav5.csproj",
+              "RelativeDocumentMoniker": "zav5\\zav5.csproj",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\zav5.csproj",
+              "RelativeToolTip": "zav5\\zav5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T23:11:48.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LightElementNode.cs",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\LightElementNode.cs",
+              "RelativeDocumentMoniker": "zav5\\LightElementNode.cs",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\LightElementNode.cs",
+              "RelativeToolTip": "zav5\\LightElementNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:11:45.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\Program.cs",
+              "RelativeDocumentMoniker": "zav5\\Program.cs",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\Program.cs",
+              "RelativeToolTip": "zav5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:06:21.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SmartTextReaderLocker.cs",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav4\\SmartTextReaderLocker.cs",
+              "RelativeDocumentMoniker": "zav4\\SmartTextReaderLocker.cs",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav4\\SmartTextReaderLocker.cs",
+              "RelativeToolTip": "zav4\\SmartTextReaderLocker.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:58:51.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav4\\Program.cs",
+              "RelativeDocumentMoniker": "zav4\\Program.cs",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav4\\Program.cs",
+              "RelativeToolTip": "zav4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:57:28.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav3\\Program.cs",
+              "RelativeDocumentMoniker": "zav3\\Program.cs",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav3\\Program.cs",
+              "RelativeToolTip": "zav3\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:41:11.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:376810320:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Palladin.cs",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav2\\Palladin.cs",
+              "RelativeDocumentMoniker": "zav2\\Palladin.cs",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav2\\Palladin.cs",
+              "RelativeToolTip": "zav2\\Palladin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:19:13.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav2\\Warrior.cs",
+              "RelativeDocumentMoniker": "zav2\\Warrior.cs",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav2\\Warrior.cs",
+              "RelativeToolTip": "zav2\\Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:18:28.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav2\\Program.cs",
+              "RelativeDocumentMoniker": "zav2\\Program.cs",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav2\\Program.cs",
+              "RelativeToolTip": "zav2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:17:18.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav1\\Program.cs",
+              "RelativeDocumentMoniker": "zav1\\Program.cs",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav1\\Program.cs",
+              "RelativeToolTip": "zav1\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:13:56.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav1\\Logger.cs",
+              "RelativeDocumentMoniker": "zav1\\Logger.cs",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav1\\Logger.cs",
+              "RelativeToolTip": "zav1\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:15:03.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SmartTextReader.cs",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav4\\SmartTextReader.cs",
+              "RelativeDocumentMoniker": "zav4\\SmartTextReader.cs",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav4\\SmartTextReader.cs",
+              "RelativeToolTip": "zav4\\SmartTextReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:58:07.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SmartTextChecker.cs",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav4\\SmartTextChecker.cs",
+              "RelativeDocumentMoniker": "zav4\\SmartTextChecker.cs",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav4\\SmartTextChecker.cs",
+              "RelativeToolTip": "zav4\\SmartTextChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:58:31.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav2\\Mage.cs",
+              "RelativeDocumentMoniker": "zav2\\Mage.cs",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav2\\Mage.cs",
+              "RelativeToolTip": "zav2\\Mage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:18:57.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "zav2",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav2\\zav2.csproj",
+              "RelativeDocumentMoniker": "zav2\\zav2.csproj",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav2\\zav2.csproj",
+              "RelativeToolTip": "zav2\\zav2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T21:18:25.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FileLoggerAdapter.cs",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav1\\FileLoggerAdapter.cs",
+              "RelativeDocumentMoniker": "zav1\\FileLoggerAdapter.cs",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav1\\FileLoggerAdapter.cs",
+              "RelativeToolTip": "zav1\\FileLoggerAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:15:31.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FileWriter.cs",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav1\\FileWriter.cs",
+              "RelativeDocumentMoniker": "zav1\\FileWriter.cs",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav1\\FileWriter.cs",
+              "RelativeToolTip": "zav1\\FileWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:15:16.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

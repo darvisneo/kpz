@@ -1,0 +1,15 @@
+D:\My Projects\1KPZ\lab-3\zav3\bin\Debug\net8.0\zav3.exe
+D:\My Projects\1KPZ\lab-3\zav3\bin\Debug\net8.0\zav3.deps.json
+D:\My Projects\1KPZ\lab-3\zav3\bin\Debug\net8.0\zav3.runtimeconfig.json
+D:\My Projects\1KPZ\lab-3\zav3\bin\Debug\net8.0\zav3.dll
+D:\My Projects\1KPZ\lab-3\zav3\bin\Debug\net8.0\zav3.pdb
+D:\My Projects\1KPZ\lab-3\zav3\obj\Debug\net8.0\zav3.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\1KPZ\lab-3\zav3\obj\Debug\net8.0\zav3.AssemblyInfoInputs.cache
+D:\My Projects\1KPZ\lab-3\zav3\obj\Debug\net8.0\zav3.AssemblyInfo.cs
+D:\My Projects\1KPZ\lab-3\zav3\obj\Debug\net8.0\zav3.csproj.CoreCompileInputs.cache
+D:\My Projects\1KPZ\lab-3\zav3\obj\Debug\net8.0\zav3.sourcelink.json
+D:\My Projects\1KPZ\lab-3\zav3\obj\Debug\net8.0\zav3.dll
+D:\My Projects\1KPZ\lab-3\zav3\obj\Debug\net8.0\refint\zav3.dll
+D:\My Projects\1KPZ\lab-3\zav3\obj\Debug\net8.0\zav3.pdb
+D:\My Projects\1KPZ\lab-3\zav3\obj\Debug\net8.0\zav3.genruntimeconfig.cache
+D:\My Projects\1KPZ\lab-3\zav3\obj\Debug\net8.0\ref\zav3.dll

@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\My Projects\\1KPZ\\lab-3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|d:\\my projects\\1kpz\\lab-3\\zav5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|solutionrelative:zav5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|d:\\my projects\\1kpz\\lab-3\\zav5\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|solutionrelative:zav5\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|d:\\my projects\\1kpz\\lab-3\\zav5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|solutionrelative:zav5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|d:\\my projects\\1kpz\\lab-3\\zav5\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|solutionrelative:zav5\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|d:\\my projects\\1kpz\\lab-3\\zav5\\statsvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|solutionrelative:zav5\\statsvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099DC3E8-D838-458E-AC0C-45661ACAB695}|zav1\\zav1.csproj|d:\\my projects\\1kpz\\lab-3\\zav1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099DC3E8-D838-458E-AC0C-45661ACAB695}|zav1\\zav1.csproj|solutionrelative:zav1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|d:\\my projects\\1kpz\\lab-3\\zav5\\addclasscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|solutionrelative:zav5\\breadthfirstiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|d:\\my projects\\1kpz\\lab-3\\zav5\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|solutionrelative:zav5\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D3DE5EF7-2183-45AB-B4C3-D79B0518EC80}|zav6\\zav6.csproj|d:\\my projects\\1kpz\\lab-3\\zav6\\zav6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D3DE5EF7-2183-45AB-B4C3-D79B0518EC80}|zav6\\zav6.csproj|solutionrelative:zav6\\zav6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -45,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B89B36F3-47DB-44B7-80AF-41D81D375BDE}|ConsoleApp1\\ConsoleApp1.csproj|d:\\my projects\\1kpz\\lab-3\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B89B36F3-47DB-44B7-80AF-41D81D375BDE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{099DC3E8-D838-458E-AC0C-45661ACAB695}|zav1\\zav1.csproj|d:\\my projects\\1kpz\\lab-3\\zav1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{099DC3E8-D838-458E-AC0C-45661ACAB695}|zav1\\zav1.csproj|solutionrelative:zav1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{099DC3E8-D838-458E-AC0C-45661ACAB695}|zav1\\zav1.csproj|d:\\my projects\\1kpz\\lab-3\\zav1\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -110,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -127,18 +131,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AddChildCommand.cs",
-              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\AddChildCommand.cs",
-              "RelativeDocumentMoniker": "zav5\\AddChildCommand.cs",
-              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\AddChildCommand.cs",
-              "RelativeToolTip": "zav5\\AddChildCommand.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Title": "StatsVisitor.cs",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\StatsVisitor.cs",
+              "RelativeDocumentMoniker": "zav5\\StatsVisitor.cs",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\StatsVisitor.cs",
+              "RelativeToolTip": "zav5\\StatsVisitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T00:59:22.816Z"
+              "WhenOpened": "2025-06-06T01:08:36.113Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "DepthFirstIterator.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\DepthFirstIterator.cs",
               "RelativeDocumentMoniker": "zav5\\DepthFirstIterator.cs",
@@ -150,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "zav6.csproj",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav6\\zav6.csproj",
               "RelativeDocumentMoniker": "zav6\\zav6.csproj",
@@ -162,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav6\\Program.cs",
               "RelativeDocumentMoniker": "zav6\\Program.cs",
@@ -174,19 +179,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "LightTextNode.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\LightTextNode.cs",
               "RelativeDocumentMoniker": "zav5\\LightTextNode.cs",
               "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\LightTextNode.cs",
               "RelativeToolTip": "zav5\\LightTextNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T23:12:26.001Z"
+              "WhenOpened": "2025-06-05T23:12:26.001Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "zav5.csproj",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\zav5.csproj",
               "RelativeDocumentMoniker": "zav5\\zav5.csproj",
@@ -198,33 +204,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\Program.cs",
               "RelativeDocumentMoniker": "zav5\\Program.cs",
               "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\Program.cs",
               "RelativeToolTip": "zav5\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA5wCUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T23:06:21.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LightElementNode.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\LightElementNode.cs",
               "RelativeDocumentMoniker": "zav5\\LightElementNode.cs",
               "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\LightElementNode.cs",
               "RelativeToolTip": "zav5\\LightElementNode.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAiwFIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T23:11:45.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "AddChildCommand.cs",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\AddChildCommand.cs",
+              "RelativeDocumentMoniker": "zav5\\AddChildCommand.cs",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\AddChildCommand.cs",
+              "RelativeToolTip": "zav5\\AddChildCommand.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T00:59:22.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav1\\Program.cs",
+              "RelativeDocumentMoniker": "zav1\\Program.cs",
+              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav1\\Program.cs",
+              "RelativeToolTip": "zav1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:13:56.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AddClassCommand.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\AddClassCommand.cs",
               "RelativeDocumentMoniker": "zav5\\AddClassCommand.cs",
@@ -236,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "BreadthFirstIterator.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\BreadthFirstIterator.cs",
               "RelativeDocumentMoniker": "zav5\\BreadthFirstIterator.cs",
@@ -248,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
@@ -260,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "SmartTextReaderLocker.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav4\\SmartTextReaderLocker.cs",
               "RelativeDocumentMoniker": "zav4\\SmartTextReaderLocker.cs",
@@ -272,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav4\\Program.cs",
               "RelativeDocumentMoniker": "zav4\\Program.cs",
@@ -284,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav3\\Program.cs",
               "RelativeDocumentMoniker": "zav3\\Program.cs",
@@ -296,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Palladin.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav2\\Palladin.cs",
               "RelativeDocumentMoniker": "zav2\\Palladin.cs",
@@ -308,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Warrior.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav2\\Warrior.cs",
               "RelativeDocumentMoniker": "zav2\\Warrior.cs",
@@ -320,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav2\\Program.cs",
               "RelativeDocumentMoniker": "zav2\\Program.cs",
@@ -332,19 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav1\\Program.cs",
-              "RelativeDocumentMoniker": "zav1\\Program.cs",
-              "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav1\\Program.cs",
-              "RelativeToolTip": "zav1\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T21:13:56.848Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Logger.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav1\\Logger.cs",
               "RelativeDocumentMoniker": "zav1\\Logger.cs",
@@ -356,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "SmartTextReader.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav4\\SmartTextReader.cs",
               "RelativeDocumentMoniker": "zav4\\SmartTextReader.cs",
@@ -368,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "SmartTextChecker.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav4\\SmartTextChecker.cs",
               "RelativeDocumentMoniker": "zav4\\SmartTextChecker.cs",
@@ -380,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Mage.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav2\\Mage.cs",
               "RelativeDocumentMoniker": "zav2\\Mage.cs",
@@ -392,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "zav2.csproj",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav2\\zav2.csproj",
               "RelativeDocumentMoniker": "zav2\\zav2.csproj",
@@ -404,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "FileLoggerAdapter.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav1\\FileLoggerAdapter.cs",
               "RelativeDocumentMoniker": "zav1\\FileLoggerAdapter.cs",
@@ -416,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "FileWriter.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav1\\FileWriter.cs",
               "RelativeDocumentMoniker": "zav1\\FileWriter.cs",

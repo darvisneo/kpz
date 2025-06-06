@@ -22,5 +22,10 @@ namespace zav5
         {
             Console.WriteLine($"Text was rendered: {Text}");
         }
+        public override void Accept(IVisitor visitor)
+        {
+            visitor.VisitTextNode(this);
+        }
+
     }
 }

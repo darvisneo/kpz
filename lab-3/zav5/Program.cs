@@ -21,6 +21,11 @@ namespace zav5
     {
         IEnumerable<LightNode> Traverse();
     }
+    public interface ICommand
+    {
+        void Execute();
+        void Undo();
+    }
     public abstract class LightNode
     {
         public abstract string OuterHTML { get; }

@@ -23,6 +23,14 @@ namespace zav5
                 Console.WriteLine($"Visibility state changed for {TagName}");
             }
         }
+        public override void Accept(IVisitor visitor)
+        {
+            visitor.VisitElementNode(this);
+            foreach (var child in Children)
+            {
+                child.Accept(visitor);
+            }
+        }
 
         public LightElementNode(string tagName, DisplayType display, TagType tagType)
         {

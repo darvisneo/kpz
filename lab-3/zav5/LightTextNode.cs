@@ -17,5 +17,10 @@ namespace zav5
 
         public override string OuterHTML => Text;
         public override string InnerHTML => Text;
+
+        protected override void OnTextRendered()
+        {
+            Console.WriteLine($"Text was rendered: {Text}");
+        }
     }
 }

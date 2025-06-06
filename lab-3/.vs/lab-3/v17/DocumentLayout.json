@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "D:\\My Projects\\1KPZ\\lab-3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3DE5EF7-2183-45AB-B4C3-D79B0518EC80}|zav6\\zav6.csproj|d:\\my projects\\1kpz\\lab-3\\zav6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3DE5EF7-2183-45AB-B4C3-D79B0518EC80}|zav6\\zav6.csproj|solutionrelative:zav6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B89B36F3-47DB-44B7-80AF-41D81D375BDE}|ConsoleApp1\\ConsoleApp1.csproj|d:\\my projects\\1kpz\\lab-3\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B89B36F3-47DB-44B7-80AF-41D81D375BDE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|d:\\my projects\\1kpz\\lab-3\\zav5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|solutionrelative:zav5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|d:\\my projects\\1kpz\\lab-3\\zav5\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|solutionrelative:zav5\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,12 +11,24 @@
       "RelativeMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|solutionrelative:zav5\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|d:\\my projects\\1kpz\\lab-3\\zav5\\zav5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|solutionrelative:zav5\\zav5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|d:\\my projects\\1kpz\\lab-3\\zav5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|solutionrelative:zav5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3DE5EF7-2183-45AB-B4C3-D79B0518EC80}|zav6\\zav6.csproj|d:\\my projects\\1kpz\\lab-3\\zav6\\zav6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D3DE5EF7-2183-45AB-B4C3-D79B0518EC80}|zav6\\zav6.csproj|solutionrelative:zav6\\zav6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DE5EF7-2183-45AB-B4C3-D79B0518EC80}|zav6\\zav6.csproj|d:\\my projects\\1kpz\\lab-3\\zav6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DE5EF7-2183-45AB-B4C3-D79B0518EC80}|zav6\\zav6.csproj|solutionrelative:zav6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89B36F3-47DB-44B7-80AF-41D81D375BDE}|ConsoleApp1\\ConsoleApp1.csproj|d:\\my projects\\1kpz\\lab-3\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89B36F3-47DB-44B7-80AF-41D81D375BDE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|d:\\my projects\\1kpz\\lab-3\\zav5\\zav5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FFC4E580-CDF8-42C9-9474-3D2C9D36A909}|zav5\\zav5.csproj|solutionrelative:zav5\\zav5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{099DC3E8-D838-458E-AC0C-45661ACAB695}|zav1\\zav1.csproj|d:\\my projects\\1kpz\\lab-3\\zav1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,11 +94,23 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:376810320:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
@@ -106,13 +118,12 @@
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAowI0AAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T23:25:31.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T23:25:31.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "zav6",
+              "DocumentIndex": 3,
+              "Title": "zav6.csproj",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav6\\zav6.csproj",
               "RelativeDocumentMoniker": "zav6\\zav6.csproj",
               "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav6\\zav6.csproj",
@@ -124,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav6\\Program.cs",
               "RelativeDocumentMoniker": "zav6\\Program.cs",
@@ -132,26 +143,25 @@
               "RelativeToolTip": "zav6\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T23:17:44.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T23:17:44.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "LightTextNode.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\LightTextNode.cs",
               "RelativeDocumentMoniker": "zav5\\LightTextNode.cs",
               "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\LightTextNode.cs",
               "RelativeToolTip": "zav5\\LightTextNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T23:12:26.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "zav5",
+              "DocumentIndex": 6,
+              "Title": "zav5.csproj",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\zav5.csproj",
               "RelativeDocumentMoniker": "zav5\\zav5.csproj",
               "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\zav5.csproj",
@@ -163,13 +173,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "LightElementNode.cs",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\LightElementNode.cs",
               "RelativeDocumentMoniker": "zav5\\LightElementNode.cs",
               "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\LightElementNode.cs",
               "RelativeToolTip": "zav5\\LightElementNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABYAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvzkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T23:11:45.415Z",
               "EditorCaption": ""
@@ -182,7 +192,7 @@
               "RelativeDocumentMoniker": "zav5\\Program.cs",
               "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav5\\Program.cs",
               "RelativeToolTip": "zav5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T23:06:21.39Z",
               "EditorCaption": ""
@@ -197,8 +207,7 @@
               "RelativeToolTip": "zav4\\SmartTextReaderLocker.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T21:58:51.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T21:58:51.331Z"
             },
             {
               "$type": "Document",
@@ -210,8 +219,7 @@
               "RelativeToolTip": "zav4\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T21:57:28.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T21:57:28.359Z"
             },
             {
               "$type": "Document",
@@ -223,16 +231,7 @@
               "RelativeToolTip": "zav3\\Program.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAmwAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T21:41:11.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:376810320:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+              "WhenOpened": "2025-06-05T21:41:11.394Z"
             },
             {
               "$type": "Document",
@@ -244,8 +243,7 @@
               "RelativeToolTip": "zav2\\Palladin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T21:19:13.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T21:19:13.865Z"
             },
             {
               "$type": "Document",
@@ -257,8 +255,7 @@
               "RelativeToolTip": "zav2\\Warrior.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T21:18:28.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T21:18:28.956Z"
             },
             {
               "$type": "Document",
@@ -270,8 +267,7 @@
               "RelativeToolTip": "zav2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T21:17:18.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T21:17:18.792Z"
             },
             {
               "$type": "Document",
@@ -283,8 +279,7 @@
               "RelativeToolTip": "zav1\\Program.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAowAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T21:13:56.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T21:13:56.848Z"
             },
             {
               "$type": "Document",
@@ -296,8 +291,7 @@
               "RelativeToolTip": "zav1\\Logger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T21:15:03.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T21:15:03.345Z"
             },
             {
               "$type": "Document",
@@ -309,8 +303,7 @@
               "RelativeToolTip": "zav4\\SmartTextReader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T21:58:07.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T21:58:07.32Z"
             },
             {
               "$type": "Document",
@@ -322,8 +315,7 @@
               "RelativeToolTip": "zav4\\SmartTextChecker.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T21:58:31.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T21:58:31.809Z"
             },
             {
               "$type": "Document",
@@ -335,13 +327,12 @@
               "RelativeToolTip": "zav2\\Mage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T21:18:57.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T21:18:57.114Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "zav2",
+              "Title": "zav2.csproj",
               "DocumentMoniker": "D:\\My Projects\\1KPZ\\lab-3\\zav2\\zav2.csproj",
               "RelativeDocumentMoniker": "zav2\\zav2.csproj",
               "ToolTip": "D:\\My Projects\\1KPZ\\lab-3\\zav2\\zav2.csproj",
@@ -361,8 +352,7 @@
               "RelativeToolTip": "zav1\\FileLoggerAdapter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T21:15:31.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T21:15:31.231Z"
             },
             {
               "$type": "Document",
@@ -374,8 +364,7 @@
               "RelativeToolTip": "zav1\\FileWriter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T21:15:16.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T21:15:16.221Z"
             }
           ]
         }

@@ -44,7 +44,18 @@ namespace zav5
                 return sb.ToString();
             }
         }
+        protected override void OnCreated()
+        {
+            Console.WriteLine($"Element {TagName} was created");
+        }
 
+        protected override void OnClassListApplied()
+        {
+            if (CssClasses.Count > 0)
+            {
+                Console.WriteLine($"Classes applied to {TagName}: {string.Join(", ", CssClasses)}");
+            }
+        }
         public override string OuterHTML
         {
             get

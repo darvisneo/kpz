@@ -17,7 +17,10 @@ namespace zav5
         Paired,
         SelfClosing
     }
-
+    public interface ILightNodeIterator
+    {
+        IEnumerable<LightNode> Traverse();
+    }
     public abstract class LightNode
     {
         public abstract string OuterHTML { get; }

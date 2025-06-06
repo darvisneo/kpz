@@ -22,6 +22,20 @@ namespace zav5
     {
         public abstract string OuterHTML { get; }
         public abstract string InnerHTML { get; }
+        public void Render()
+        {
+            OnCreated();
+            OnStylesApplied();
+            OnClassListApplied();
+            OnTextRendered();
+            OnInserted();
+        }
+
+        protected virtual void OnCreated() { }
+        protected virtual void OnStylesApplied() { }
+        protected virtual void OnClassListApplied() { }
+        protected virtual void OnTextRendered() { }
+        protected virtual void OnInserted() { }
     }
 
     class Program
